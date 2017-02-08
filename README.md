@@ -1,3 +1,5 @@
+# Testing Fundamentals
+
 This is a document written as a primer about unit testing.  It has a wide scope, 
 including philosophy and rationale for testing, types of testing, economics of
 testing and examples of writing tests in practice.  
